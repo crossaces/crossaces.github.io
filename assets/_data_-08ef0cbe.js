@@ -1,0 +1,1 @@
+import{u as s,j as o,a as t,L as r}from"./index-c5494cae.js";const l=()=>{const{data:a}=s();return o(r,{children:t("div",{className:"container-layout",children:["my blog ",a]})})};export{l as default};
